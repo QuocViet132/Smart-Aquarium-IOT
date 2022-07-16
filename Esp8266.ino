@@ -1,7 +1,4 @@
-/*********
- 2/4/2022
- Tác giả: Nhóm 6
-*********/
+//    02/04/2022
 
 #include <ESP8266WiFi.h>
 #include <Servo.h>
@@ -13,8 +10,8 @@ Servo myservo;  // create servo object to control a servo
 static const int servoPin = 16;
 
 // Replace with your network credentials
-const char* ssid     = "Tuan T2";
-const char* password = "02363691412";
+const char* ssid     = "Your_SSID";
+const char* password = "Your_Password";
 
 WiFiServer server(8888);   // Use port number 8888 instead 80
 

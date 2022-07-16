@@ -1,5 +1,3 @@
-
-
 #include "esp_camera.h"
 #include <WiFi.h>
 #include "esp_timer.h"
@@ -11,8 +9,8 @@
 #include "esp_http_server.h"
 
 //Replace with your network credentials
-const char* ssid = "Tuan T2";
-const char* password = "02363691412";
+const char* ssid = "Your_Ssid"
+const char* password = "Your_Password";
  
 #define PART_BOUNDARY "123456789000000000000987654321"
 
