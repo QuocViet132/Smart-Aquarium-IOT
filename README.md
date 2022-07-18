@@ -22,10 +22,12 @@ Thiết bị điều khiển hồ cá là thiết bị có thể kết nối m�
 - `Bước 2:` Sao chép địa chỉ IP bỏ vào file ESP32-CAM.bat rồi nhấn Enter.
 
 ![image](https://user-images.githubusercontent.com/95084615/179447446-b88bbd0b-aa13-423e-976e-648d95ab5a8f.png)
-- `Bước 3:` Một địa chỉ IP mới sẽ xuất hiện, hãy sao chép địa chỉ IP đó.
+- `Bước 3:` Một địa chỉ IP mới sẽ xuất hiện, hãy sao chép địa chỉ IP đó (`http://0.tcp.ap.ngrok.io:15336`)
 
 ![image](https://user-images.githubusercontent.com/95084615/179447505-87021cee-90da-46d6-8fa5-b47acca087e1.png)
-- `Bước 4:` Dán địa chỉ IP vừa sao chép bỏ vào file code của ESP8266. `http://0.tcp.ap.ngrok.io:15336`
+- `Bước 4:` Dán địa chỉ IP vừa sao chép bỏ vào file code của ESP8266.ino
+
+![image](https://user-images.githubusercontent.com/95084615/179448421-0ec4e605-3391-439c-8bfd-e563c24b853d.png)
 - `Bước 5:` Tiến hành chạy code ESP8266 sẽ xuất hiện được địa chỉ IP như hình bên dưới.
 
 ![image](https://user-images.githubusercontent.com/95084615/179447400-9062a4a6-7a7b-4ae8-8351-eaf26cd1fa10.png)
