@@ -45,5 +45,6 @@ Thiết bị điều khiển hồ cá là thiết bị có thể kết nối m�
 
 ## Installs
 - [Download Zip](https://github.com/QuocViet132/Smart-Aquarium/archive/refs/heads/master.zip)   Lưu các file `.bat` tại thư mục cài đặt Ngrok
-- [Install Ngrok](https://ngrok.com/download)
-- [Install Arduino IDE](https://www.arduino.cc/en/software)
+- Request Software:
+  + [Install Ngrok](https://ngrok.com/download)
+  + [Install Arduino IDE](https://www.arduino.cc/en/software)
