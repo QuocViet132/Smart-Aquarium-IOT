@@ -48,3 +48,10 @@ Thiết bị điều khiển hồ cá là thiết bị có thể kết nối m�
 - Request Software:
   + [Install Ngrok](https://ngrok.com/download)
   + [Install Arduino IDE](https://www.arduino.cc/en/software)
+
+## Project Information
+Dự án được thực hiện bởi nhóm 4 thành viên:
+- Nguyễn Quốc Việt (Leader)
+- Đoàn Thanh Tuấn
+- Trần Phúc Thịnh
+- Đinh Ngọc Tiên
