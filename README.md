@@ -9,7 +9,7 @@ Thiết bị điều khiển hồ cá là thiết bị có thể kết nối m�
 
 ## Các tính năng (Features)
 **_Các tính năng của hồ cá:_**
-  + Đổ thức ăn cho cá
+  + Điều khiển cho cá ăn
   + Bật tắt đèn Led RGB
   + Quan sát hồ cá thông qua camera
 
